@@ -1,0 +1,8 @@
+apiVersion: winlab.io/v1alpha1
+kind: VM
+metadata:
+  name: test-1
+spec:
+  cpu: 1
+  memory: 2048
+  diskSize: 10
